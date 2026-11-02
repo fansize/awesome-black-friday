@@ -1,0 +1,19 @@
+{
+  "name": "blackfriday-deals",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 scripts/build_site.py && cf dev",
+    "build": "python3 scripts/build_site.py && cf build",
+    "check:deploy": "python3 scripts/build_site.py && cf deploy --dry-run",
+    "deploy": "python3 scripts/build_site.py && cf deploy"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "2.0.0-beta.v.6",
+    "cf": "1.0.0-beta.25",
+    "vite": "8.3.5"
+  },
+  "engines": {
+    "node": "^22.23.0 || ^24.22.0 || ^26.12.0"
+  }
+}

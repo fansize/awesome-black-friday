@@ -1,0 +1,8 @@
+_site/
+__pycache__/
+node_modules/
+.cloudflare/
+.wrangler/
+dist/
+.env*
+.dev.vars*
