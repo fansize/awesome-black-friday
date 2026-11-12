@@ -139,6 +139,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
+| [VantagePoint](https://vantagepoint.enciphers.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Hands-on cybersecurity learning platform: real-world pentest labs (Web, Mobile, Cloud, Red/Blue Teaming, CVEs, Malware Analysis), human feedback on every submission, badges & certifications. | 💸 **70% OFF** · no code needed (all hacking labs & certifications) | Nov 2, 2026 - Dec 15, 2026 |
 
 ## ♻️ SaaS Software
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
