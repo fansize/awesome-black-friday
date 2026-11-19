@@ -127,6 +127,10 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | ♾️ **40% OFF** · code `BLACKFRIDAY26` (direct purchase only) | Nov 20, 2026 - Dec 1, 2026 |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration | ♾️ **20% OFF** (€1,200 → €960) · Lifetime licence with code `LIFETIME` | Now - Nov 30, 2026 |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations | ♾️ **20% OFF** (€1,200 → €960) · Lifetime licence with code `LIFETIME` | Now - Nov 30, 2026 |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling | ♾️ **20% OFF** (€1,200 → €960) · Lifetime licence with code `LIFETIME` | Now - Nov 30, 2026 |
+| [Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount) | All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI | **Black Friday bundle €4,000** · no coupon | Now - Nov 30, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
